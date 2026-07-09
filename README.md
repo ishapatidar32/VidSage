@@ -88,4 +88,4 @@ vidsage/
 - Search corporate training videos
 
 ## 👨‍💻 Built By
-[Your Name] — Placement Project 2026
+[Isha patidar]
