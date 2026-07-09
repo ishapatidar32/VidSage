@@ -1,0 +1,665 @@
+{
+  "text": "What's up guys, you are back in the Sigma Web Development course. I'm really very happy that you guys have given so much love to this course. Like this course with high energy. Because for this Sigma free course, Sigma Charts is the best. In today's video, I will explain you guys how to see a website. Along with that, I will tell you guys a mobile trick that will help how you can preview your websites in your phone. I have a request from you guys to write in the comment section if HTML. That will help me structure this course better. In this video, I will tell you guys about ChatGbD. Because there are a lot of things going on about ChatGbD. In the upcoming videos, I will also quiz you. So, be very careful and learn all the concepts. Let's go to the computer screen. Let's roll the intro. So guys, I have come to the computer screen. And now we will talk about how to open, close, and lay the website. So here in my folder, I will make a folder called Video3. New Folder Video3. And I will shift into Video3 and open with code. And here you can see that my theme is blue. And a lot of people said that blue is not good. Now look, the theme is your choice. If you want to change the color theme. So you can change your color theme. I want to use the GitHub dark one. So I can use GitHub dark. It's your choice. To make a new file, I will put index.html here. We had already talked about writing the title of the page here. And writing content here. And then using the link tag here. Using the emit here, I can link style.css. I am doing it so fast because I have already talked about it in the previous video. And here if I write script.js here. And here I write, let us say alert hello. So I will not tell you again that if I put a script tag here. Just before the body. And after that, I put script.src here. I have done script.js. And then by clicking here, I have opened with browser. So this will be hello. And here if I red the body background. Then it will be red. I will not tell you all this. Because I have already told you all this. I will tell you all this now. What does this structure mean? Why did it write so big? This is a doubt for a beginner. We cannot write the title and content directly. What is the need to write so much? So I will tell you how much you need to write. I will reload it. Look, the content here is here. And it turned red here. Now here you saw that I needed to reload the page. You must have asked me why I need to reload the questions. When it already reloads live. So look, I have changed the CSS file. When I change the CSS file. At times we need to reload. If you are using HTML file. You are doing changes in HTML file. You don't need to reload the changes in this way. Now here what I will do is I will come back. And I will explain to you all. This is a basic structure.",
+  "chunks": [
+    {
+      "start": 0.0,
+      "end": 3.72,
+      "text": "What's up guys, you are back in the Sigma Web Development course.",
+      "keywords": [
+        "course",
+        "Web",
+        "Sigma",
+        "guys",
+        "Development"
+      ],
+      "entities": []
+    },
+    {
+      "start": 3.72,
+      "end": 7.2,
+      "text": "I'm really very happy that you guys have given so much love to this course.",
+      "keywords": [
+        "guys",
+        "love",
+        "course"
+      ],
+      "entities": []
+    },
+    {
+      "start": 7.2,
+      "end": 9.36,
+      "text": "Like this course with high energy.",
+      "keywords": [
+        "energy",
+        "course"
+      ],
+      "entities": []
+    },
+    {
+      "start": 9.36,
+      "end": 13.08,
+      "text": "Because for this Sigma free course, Sigma Charts is the best.",
+      "keywords": [
+        "course",
+        "Charts",
+        "Sigma"
+      ],
+      "entities": [
+        "Sigma Charts",
+        "Sigma"
+      ]
+    },
+    {
+      "start": 13.08,
+      "end": 17.56,
+      "text": "In today's video, I will explain you guys how to see a website.",
+      "keywords": [
+        "video",
+        "guys",
+        "today",
+        "website"
+      ],
+      "entities": [
+        "today"
+      ]
+    },
+    {
+      "start": 17.56,
+      "end": 22.04,
+      "text": "Along with that, I will tell you guys a mobile trick that will help",
+      "keywords": [
+        "guys",
+        "trick"
+      ],
+      "entities": []
+    },
+    {
+      "start": 22.04,
+      "end": 25.76,
+      "text": "how you can preview your websites in your phone.",
+      "keywords": [
+        "websites",
+        "phone"
+      ],
+      "entities": []
+    },
+    {
+      "start": 25.76,
+      "end": 30.560000000000002,
+      "text": "I have a request from you guys to write in the comment section if HTML.",
+      "keywords": [
+        "comment",
+        "section",
+        "HTML",
+        "guys",
+        "request"
+      ],
+      "entities": [
+        "HTML"
+      ]
+    },
+    {
+      "start": 30.560000000000002,
+      "end": 32.64,
+      "text": "That will help me structure this course better.",
+      "keywords": [
+        "course"
+      ],
+      "entities": []
+    },
+    {
+      "start": 32.64,
+      "end": 35.44,
+      "text": "In this video, I will tell you guys about ChatGbD.",
+      "keywords": [
+        "video",
+        "guys",
+        "ChatGbD."
+      ],
+      "entities": []
+    },
+    {
+      "start": 35.44,
+      "end": 38.400000000000006,
+      "text": "Because there are a lot of things going on about ChatGbD.",
+      "keywords": [
+        "things",
+        "lot",
+        "ChatGbD."
+      ],
+      "entities": []
+    },
+    {
+      "start": 38.400000000000006,
+      "end": 41.0,
+      "text": "In the upcoming videos, I will also quiz you.",
+      "keywords": [
+        "videos"
+      ],
+      "entities": []
+    },
+    {
+      "start": 41.0,
+      "end": 44.32,
+      "text": "So, be very careful and learn all the concepts.",
+      "keywords": [
+        "concepts"
+      ],
+      "entities": []
+    },
+    {
+      "start": 44.32,
+      "end": 45.84,
+      "text": "Let's go to the computer screen.",
+      "keywords": [
+        "computer",
+        "screen"
+      ],
+      "entities": []
+    },
+    {
+      "start": 45.84,
+      "end": 47.32,
+      "text": "Let's roll the intro.",
+      "keywords": [
+        "intro"
+      ],
+      "entities": [
+        "intro"
+      ]
+    },
+    {
+      "start": 55.76,
+      "end": 57.92,
+      "text": "So guys, I have come to the computer screen.",
+      "keywords": [
+        "computer",
+        "guys",
+        "screen"
+      ],
+      "entities": []
+    },
+    {
+      "start": 57.92,
+      "end": 64.56,
+      "text": "And now we will talk about how to open, close, and lay the website.",
+      "keywords": [
+        "website"
+      ],
+      "entities": []
+    },
+    {
+      "start": 64.56,
+      "end": 68.0,
+      "text": "So here in my folder, I will make a folder called Video3.",
+      "keywords": [
+        "Video3",
+        "folder"
+      ],
+      "entities": [
+        "Video3"
+      ]
+    },
+    {
+      "start": 68.0,
+      "end": 70.32,
+      "text": "New Folder Video3.",
+      "keywords": [
+        "Video3",
+        "New",
+        "Folder"
+      ],
+      "entities": []
+    },
+    {
+      "start": 70.32,
+      "end": 73.8,
+      "text": "And I will shift into Video3 and open with code.",
+      "keywords": [
+        "Video3",
+        "code"
+      ],
+      "entities": [
+        "Video3"
+      ]
+    },
+    {
+      "start": 73.8,
+      "end": 77.56,
+      "text": "And here you can see that my theme is blue.",
+      "keywords": [
+        "theme"
+      ],
+      "entities": []
+    },
+    {
+      "start": 77.56,
+      "end": 79.68,
+      "text": "And a lot of people said that blue is not good.",
+      "keywords": [
+        "people",
+        "lot",
+        "blue"
+      ],
+      "entities": []
+    },
+    {
+      "start": 79.68,
+      "end": 82.03999999999999,
+      "text": "Now look, the theme is your choice.",
+      "keywords": [
+        "choice",
+        "theme"
+      ],
+      "entities": []
+    },
+    {
+      "start": 82.03999999999999,
+      "end": 84.28,
+      "text": "If you want to change the color theme.",
+      "keywords": [
+        "color",
+        "theme"
+      ],
+      "entities": []
+    },
+    {
+      "start": 84.32000000000001,
+      "end": 86.6,
+      "text": "So you can change your color theme.",
+      "keywords": [
+        "color",
+        "theme"
+      ],
+      "entities": []
+    },
+    {
+      "start": 86.6,
+      "end": 88.36,
+      "text": "I want to use the GitHub dark one.",
+      "keywords": [
+        "GitHub"
+      ],
+      "entities": [
+        "GitHub"
+      ]
+    },
+    {
+      "start": 88.36,
+      "end": 89.8,
+      "text": "So I can use GitHub dark.",
+      "keywords": [
+        "GitHub",
+        "dark"
+      ],
+      "entities": [
+        "GitHub"
+      ]
+    },
+    {
+      "start": 89.8,
+      "end": 90.56,
+      "text": "It's your choice.",
+      "keywords": [
+        "choice"
+      ],
+      "entities": []
+    },
+    {
+      "start": 90.56,
+      "end": 93.96000000000001,
+      "text": "To make a new file, I will put index.html here.",
+      "keywords": [
+        "file",
+        "index.html"
+      ],
+      "entities": [
+        "index.html"
+      ]
+    },
+    {
+      "start": 93.96000000000001,
+      "end": 97.92,
+      "text": "We had already talked about writing the title of the page here.",
+      "keywords": [
+        "page",
+        "title"
+      ],
+      "entities": []
+    },
+    {
+      "start": 97.92,
+      "end": 99.44,
+      "text": "And writing content here.",
+      "keywords": [
+        "content"
+      ],
+      "entities": []
+    },
+    {
+      "start": 99.44,
+      "end": 102.64,
+      "text": "And then using the link tag here.",
+      "keywords": [
+        "link",
+        "tag"
+      ],
+      "entities": []
+    },
+    {
+      "start": 102.64,
+      "end": 106.48,
+      "text": "Using the emit here, I can link style.css.",
+      "keywords": [
+        "style.css",
+        "emit"
+      ],
+      "entities": []
+    },
+    {
+      "start": 106.48,
+      "end": 109.64,
+      "text": "I am doing it so fast because I have already talked about it in the previous video.",
+      "keywords": [
+        "video"
+      ],
+      "entities": []
+    },
+    {
+      "start": 109.64,
+      "end": 113.0,
+      "text": "And here if I write script.js here.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 113.0,
+      "end": 115.36,
+      "text": "And here I write, let us say alert hello.",
+      "keywords": [
+        "alert"
+      ],
+      "entities": []
+    },
+    {
+      "start": 115.36,
+      "end": 119.48,
+      "text": "So I will not tell you again that if I put a script tag here.",
+      "keywords": [
+        "tag",
+        "script"
+      ],
+      "entities": []
+    },
+    {
+      "start": 119.48,
+      "end": 120.8,
+      "text": "Just before the body.",
+      "keywords": [
+        "body"
+      ],
+      "entities": []
+    },
+    {
+      "start": 120.8,
+      "end": 123.92,
+      "text": "And after that, I put script.src here.",
+      "keywords": [
+        "script.src"
+      ],
+      "entities": []
+    },
+    {
+      "start": 123.92,
+      "end": 125.64,
+      "text": "I have done script.js.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 125.64,
+      "end": 128.56,
+      "text": "And then by clicking here, I have opened with browser.",
+      "keywords": [
+        "browser"
+      ],
+      "entities": []
+    },
+    {
+      "start": 128.56,
+      "end": 129.68,
+      "text": "So this will be hello.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 129.68,
+      "end": 131.88,
+      "text": "And here if I red the body background.",
+      "keywords": [
+        "background",
+        "body"
+      ],
+      "entities": []
+    },
+    {
+      "start": 131.88,
+      "end": 132.72,
+      "text": "Then it will be red.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 132.72,
+      "end": 134.04,
+      "text": "I will not tell you all this.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 134.04,
+      "end": 136.76,
+      "text": "Because I have already told you all this.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 136.76,
+      "end": 138.6,
+      "text": "I will tell you all this now.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 138.6,
+      "end": 140.6,
+      "text": "What does this structure mean?",
+      "keywords": [
+        "structure"
+      ],
+      "entities": []
+    },
+    {
+      "start": 140.6,
+      "end": 141.88,
+      "text": "Why did it write so big?",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 141.88,
+      "end": 143.6,
+      "text": "This is a doubt for a beginner.",
+      "keywords": [
+        "doubt",
+        "beginner"
+      ],
+      "entities": []
+    },
+    {
+      "start": 143.6,
+      "end": 146.07999999999998,
+      "text": "We cannot write the title and content directly.",
+      "keywords": [
+        "content",
+        "title"
+      ],
+      "entities": []
+    },
+    {
+      "start": 146.07999999999998,
+      "end": 148.16,
+      "text": "What is the need to write so much?",
+      "keywords": [
+        "need"
+      ],
+      "entities": []
+    },
+    {
+      "start": 148.16,
+      "end": 150.64,
+      "text": "So I will tell you how much you need to write.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 150.64,
+      "end": 151.48,
+      "text": "I will reload it.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 151.48,
+      "end": 153.79999999999998,
+      "text": "Look, the content here is here.",
+      "keywords": [
+        "content"
+      ],
+      "entities": []
+    },
+    {
+      "start": 153.79999999999998,
+      "end": 155.35999999999999,
+      "text": "And it turned red here.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 155.35999999999999,
+      "end": 158.0,
+      "text": "Now here you saw that I needed to reload the page.",
+      "keywords": [
+        "page"
+      ],
+      "entities": []
+    },
+    {
+      "start": 158.0,
+      "end": 160.84,
+      "text": "You must have asked me why I need to reload the questions.",
+      "keywords": [
+        "questions"
+      ],
+      "entities": []
+    },
+    {
+      "start": 160.84,
+      "end": 162.92,
+      "text": "When it already reloads live.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 162.92,
+      "end": 164.68,
+      "text": "So look, I have changed the CSS file.",
+      "keywords": [
+        "CSS",
+        "file"
+      ],
+      "entities": [
+        "CSS"
+      ]
+    },
+    {
+      "start": 164.68,
+      "end": 166.35999999999999,
+      "text": "When I change the CSS file.",
+      "keywords": [
+        "CSS",
+        "file"
+      ],
+      "entities": [
+        "CSS"
+      ]
+    },
+    {
+      "start": 166.35999999999999,
+      "end": 168.24,
+      "text": "At times we need to reload.",
+      "keywords": [
+        "times"
+      ],
+      "entities": []
+    },
+    {
+      "start": 168.24,
+      "end": 169.6,
+      "text": "If you are using HTML file.",
+      "keywords": [
+        "HTML",
+        "file"
+      ],
+      "entities": [
+        "HTML"
+      ]
+    },
+    {
+      "start": 169.64,
+      "end": 171.72,
+      "text": "You are doing changes in HTML file.",
+      "keywords": [
+        "HTML",
+        "changes",
+        "file"
+      ],
+      "entities": [
+        "HTML"
+      ]
+    },
+    {
+      "start": 171.72,
+      "end": 174.51999999999998,
+      "text": "You don't need to reload the changes in this way.",
+      "keywords": [
+        "changes",
+        "way"
+      ],
+      "entities": []
+    },
+    {
+      "start": 174.51999999999998,
+      "end": 177.6,
+      "text": "Now here what I will do is I will come back.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 177.6,
+      "end": 178.76,
+      "text": "And I will explain to you all.",
+      "keywords": [],
+      "entities": []
+    },
+    {
+      "start": 178.76,
+      "end": 180.24,
+      "text": "This is a basic structure.",
+      "keywords": [
+        "structure"
+      ],
+      "entities": []
+    }
+  ]
+}
