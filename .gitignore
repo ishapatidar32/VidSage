@@ -1,0 +1,6 @@
+# Zip files
+*.zip
+
+# ffmpeg folder and zip
+ffmpeg-master-latest-win64-gpl-shared/
+ffmpeg-master-latest-win64-gpl-shared.zip
